@@ -90,7 +90,7 @@ CoordBase::zmin = -0.025
 CoordBase::xmax =  0.5
 CoordBase::ymax =  0.025
 CoordBase::zmax =  0.025
-CoordBase::dx   =  0.0025  
+CoordBase::dx   =  0.00125
 CoordBase::dy   =  0.005  
 CoordBase::dz   =  0.005  
 
